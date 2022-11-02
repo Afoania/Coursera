@@ -12,7 +12,7 @@ h1 {
 
 .chicken, .beef, .sushi {
     background-color: darkslategrey;
-    height: 280px;
+    height: auto;
 
 }
 
